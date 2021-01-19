@@ -3,8 +3,9 @@ public class Helloworld {
 		System.out.println("Hello World");
 		String nama = :"Lare";
 		int umur = 10;
-		
+		String alamat ="Jakarta";
 		System.out.println("Nama "+nama);
 		System.out.println("Umur "+umur);
 	}
 }
+//harap ditambahkan
