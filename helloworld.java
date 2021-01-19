@@ -6,6 +6,7 @@ public class Helloworld {
 		String alamat ="Jakarta";
 		System.out.println("Nama "+nama);
 		System.out.println("Umur "+umur);
+		System.out.println("Alamat "+alamat);
 	}
 }
 //harap ditambahkan
