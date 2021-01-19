@@ -7,5 +7,7 @@ public class Helloworld {
 		System.out.println("Nama "+nama);
 		System.out.println("Umur "+umur);
 	}
+	int private 
 }
 //harap ditambahkan
+//ditambahkan dikit ya mamank !!!
