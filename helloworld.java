@@ -8,5 +8,7 @@ public class Helloworld {
 		System.out.println("Umur "+umur);
 		System.out.println("Alamat "+alamat);
 	}
+	System.out.println("mamank sukmax");
 }
 //harap ditambahkan lagi
+//tambahin dikit
