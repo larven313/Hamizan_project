@@ -9,6 +9,7 @@ public class Helloworld {
 		System.out.println("Alamat "+alamat);
 	}
 	System.out.println("mamank sukmax");
+	System.out.println("codm mantap bosque");
 }
 //harap ditambahkan lagi
 //tambahin dikit
