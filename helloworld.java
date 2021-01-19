@@ -18,7 +18,11 @@ public class Helloworld {
 
 	System.out.println("mamank sukmax");
 
+	System.out.println("codm mantap bosque");
+
+
 	System.out.println("Pro player");
+
 }
 //harap ditambahkan lagi
 //tambahin dikit
